@@ -2,6 +2,9 @@
 
 #### AWSOMEGROUP101
 
+## Report
+[Click for Report](https://github.com/dpurkays/weather-data-analysis/blob/master/Report.pdf)
+
 ## Required libraries
 
 1. pandas
